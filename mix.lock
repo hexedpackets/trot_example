@@ -2,6 +2,7 @@
   "cowboy": {:hex, :cowboy, "1.0.0"},
   "cowlib": {:hex, :cowlib, "1.0.1"},
   "plug": {:hex, :plug, "0.12.2"},
+  "plug_heartbeat": {:hex, :plug_heartbeat, "0.1.0"},
   "poison": {:hex, :poison, "1.4.0"},
   "ranch": {:hex, :ranch, "1.0.0"},
-  "trot": {:git, "git://github.com/hexedpackets/trot.git", "214622c8e62081e1416c4bf1537f6a4a462ed2e3", []}}
+  "trot": {:git, "git://github.com/hexedpackets/trot.git", "5c659ace9c94d8ef8e0788b110586cebd8e58d91", []}}
